@@ -14,6 +14,6 @@ ejercicios_practica
 
 
 # Consultas
-alumnos@inove.com.ar
+alumnos@inove.com.a
 
 
